@@ -82,14 +82,17 @@ h3{
     #rapido{
         width: 100%;
         height:auto;
-        display: block;
+        
     }
     .botao{
-        padding: 12px;
+        padding: 10px;
     }
     #sobre{
         width: 100%;
         height: auto;
+    }
+    H1{
+    font-size: 30px;
     }
     }
     

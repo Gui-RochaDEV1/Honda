@@ -76,16 +76,19 @@ h3{
         text-align: center;
         
     }
-    p{
-        text-align: center;
-    }
+  
     #rapido{
         width: 100%;
         height:auto;
+        flex-direction: column;
+        padding: 10px;
+        text-align: center;
         
     }
     .botao{
         padding: 10px;
+        border-radius:  2px;
+        
     }
     #sobre{
         width: 100%;
